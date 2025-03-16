@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|d:\\btl .net_ko_loi\\btl_gk_finish\\btl_gk\\btl_gk\\views\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\xemhoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\xemhoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\trangthaidon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\trangthaidon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\trangthaidon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\trangthaidon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\thongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\views\\xemhoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\views\\xemhoadonform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\btl_gk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00758548-1BA9-488D-8211-2CED450CBFFE}|BTL_GK\\BTL_GK.csproj|solutionrelative:btl_gk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ThongKe.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\ThongKe.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\ThongKe.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\ThongKe.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\ThongKe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:26:53.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\ThongKe.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\ThongKe.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\ThongKe.cs [Design]",
+              "RelativeToolTip": "BTL_GK\\Views\\ThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:26:51.533Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "XemHoaDonForm.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\XemHoaDonForm.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\XemHoaDonForm.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\XemHoaDonForm.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\XemHoaDonForm.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAvwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:26:38.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XemHoaDonForm.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\XemHoaDonForm.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\XemHoaDonForm.cs",
+              "ToolTip": "D:\\nhom13\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\XemHoaDonForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nhom13\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\XemHoaDonForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T15:26:36.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Admin.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Admin.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Admin.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\Admin.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwE0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:41:12.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Login.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Login.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\Login.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:40:32.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Connection.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Connection.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Connection.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\Connection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:56:23.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\NhanVien.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\NhanVien.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:47:56.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\DonHang.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\DonHang.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\DonHang.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\DonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:44:21.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Product.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Product.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Product.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\Product.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAAHkBAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:36:08.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrangThaiDon.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\TrangThaiDon.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\TrangThaiDon.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\TrangThaiDon.cs",
+              "RelativeToolTip": "BTL_GK\\Views\\TrangThaiDon.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAD4vxAAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T15:18:27.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Login.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Login.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Login.cs [Design]",
+              "RelativeToolTip": "BTL_GK\\Views\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:55:17.841Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrangThaiDon.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\TrangThaiDon.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\TrangThaiDon.cs",
+              "ToolTip": "D:\\nhom13\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\TrangThaiDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nhom13\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\TrangThaiDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:17:15.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\NhanVien.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\NhanVien.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\NhanVien.cs [Design]",
+              "RelativeToolTip": "BTL_GK\\Views\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:20:17.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Product.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Product.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Product.cs [Design]",
+              "RelativeToolTip": "BTL_GK\\Views\\Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:47:57.014Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonHang.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\DonHang.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\DonHang.cs",
+              "ToolTip": "D:\\nhom13\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\DonHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\nhom13\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\DonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:47:51.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Admin.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Views\\Admin.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Views\\Admin.cs [Design]",
+              "RelativeToolTip": "BTL_GK\\Views\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:47:43.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_GK\\Program.cs",
+              "ToolTip": "D:\\BTL .Net_Ko_loi\\BTL_GK_Finish\\BTL_GK\\BTL_GK\\Program.cs",
+              "RelativeToolTip": "BTL_GK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T12:45:21.947Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+C:\Work space\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe.config
+C:\Work space\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe
+C:\Work space\BTL_GK\BTL_GK\bin\Debug\BTL_GK.pdb
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.AssemblyReference.cache
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Properties.Resources.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Login.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.GenerateResource.cache
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.CoreCompileInputs.cache
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.exe
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.pdb
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Admin.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Product.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.DonHang.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.ThongKe.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.XemHoaDonForm.resources
+C:\Work space\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.TrangThaiDon.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe.config
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\bin\Debug\BTL_GK.pdb
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.AssemblyReference.cache
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Properties.Resources.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Admin.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.DonHang.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Login.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Product.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.ThongKe.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.TrangThaiDon.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.XemHoaDonForm.resources
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.GenerateResource.cache
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.CoreCompileInputs.cache
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.exe
+C:\Users\Hoamg\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.pdb
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe.config
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\bin\Debug\BTL_GK.pdb
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.AssemblyReference.cache
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Properties.Resources.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Admin.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.DonHang.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Login.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Product.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.ThongKe.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.TrangThaiDon.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.XemHoaDonForm.resources
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.GenerateResource.cache
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.CoreCompileInputs.cache
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.exe
+C:\Users\lethi\Downloads\BTL_GK18 (1)\BTL_GK\BTL_GK\obj\Debug\BTL_GK.pdb
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.AssemblyReference.cache
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Admin.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.DonHang.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Login.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Product.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.ThongKe.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.TrangThaiDon.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.XemHoaDonForm.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.GenerateResource.cache
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.exe
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.pdb
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe.config
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.pdb
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Properties.Resources.resources
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.CoreCompileInputs.cache
+C:\Work space\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.NhanVien.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe.config
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.pdb
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.AssemblyReference.cache
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Properties.Resources.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Admin.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.DonHang.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Login.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.NhanVien.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Product.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.ThongKe.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.TrangThaiDon.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.XemHoaDonForm.resources
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.GenerateResource.cache
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.CoreCompileInputs.cache
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.exe
+D:\nhom13\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.pdb
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe.config
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.exe
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\bin\Debug\BTL_GK.pdb
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.AssemblyReference.cache
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Properties.Resources.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Admin.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.DonHang.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Login.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.NhanVien.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.Product.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.ThongKe.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.TrangThaiDon.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.Views.XemHoaDonForm.resources
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.GenerateResource.cache
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.csproj.CoreCompileInputs.cache
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.exe
+D:\BTL .Net_Ko_loi\BTL_GK_Finish\BTL_GK\BTL_GK\obj\Debug\BTL_GK.pdb
